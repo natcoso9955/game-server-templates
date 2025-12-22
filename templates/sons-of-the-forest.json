@@ -1,0 +1,15 @@
+{
+  "name": "Sons Of The Forest",
+  "game_id": "1326470",
+  "default_port": 8766,
+  "steam_query_port": 27016,
+  "steam_launch_url": "steam://rungameid/1326470//+connect {ip}:{port} +password {password}",
+  "image_filename": "sons-of-the-forest.jpg",
+  "recommended_fields": [
+    "server_name",
+    "map",
+    "players",
+    "version"
+  ],
+  "description": "Survival horror game - cooperative multiplayer"
+}
