@@ -1,0 +1,15 @@
+{
+  "name": "Icarus",
+  "game_id": "1149460",
+  "default_port": 17777,
+  "steam_query_port": 27015,
+  "steam_launch_url": "steam://rungameid/1149460//",
+  "image_filename": "icarus.jpg",
+  "recommended_fields": [
+      "server_name",
+      "game",
+      "players",
+      "vac_enabled"
+  ],
+  "description": "A session-based PvE survival game where players drop onto a hostile alien planet to gather resources, complete timed missions, and extract before conditions overwhelm them."
+}
